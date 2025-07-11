@@ -114,7 +114,7 @@ This project is an end-to-end data analytics solution built to extract actionabl
 ---
 
 ## Results and Insights
-This section will include your analysis findings:
+
 - Team Performance: Identify teams with the highest win rates, especially at home, and analyze performance trends across the season.
 - Scoring Efficiency: Explore how shooting percentages (FG%, 3PT%, FT%) correlate with game outcomes.
 - Assist & Rebound Impact: Understand how playmaking (assists) and rebounding influence a team's chances of winning.
@@ -129,7 +129,6 @@ This section will include your analysis findings:
 
 ## Future Enhancements
 
-Possible extensions to this project:
 - Interactive Dashboards:Integrate with visualization tools like Power BI, Tableau, or Plotly Dash to create interactive dashboards that allow users to explore the data dynamically.
 - Incorporate Additional Data Sources: Add more datasets (e.g., from APIs, other databases, or external files) to deepen the analysis and provide more comprehensive insights.
 - Automate Data Pipeline: Develop scripts or use tools (e.g., Airflow, Prefect) to automate data downloading, cleaning, and loading, enabling scheduled or real-time updates.
