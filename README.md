@@ -92,7 +92,7 @@ This project is an end-to-end data analytics solution built to extract actionabl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/johnsmith/ngs-alignment.git ## Here the URL of my repository
+   git clone https://github.com/HadjerBellah/Game_project.git
    ```
 2. Install Python libraries:
    ```bash
